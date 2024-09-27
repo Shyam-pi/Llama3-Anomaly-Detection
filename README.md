@@ -2,7 +2,7 @@
 
 This repository holds the code for implementation of different techniques to detect anomalies present in the device sizes data of NIH medical devices (downloaded from AccessGUDID website)
 
-Note: All these notebooks were run using Google Colab. You need deviceSizes.txt and gmdnTerms.txt files from the AccessGUDID website to test these notebooks.
+Note: All these notebooks were run using Google Colab. You need deviceSizes.txt and gmdnTerms.txt files from the AccessGUDID website (https://accessgudid.nlm.nih.gov/download/delimited) to test these notebooks.
 ```
 1. anom_det_classical.ipynb
 ```
