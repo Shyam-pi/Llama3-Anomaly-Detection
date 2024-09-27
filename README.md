@@ -4,7 +4,7 @@ This repository holds the code for implementation of different techniques to det
 
 Note: All these notebooks were run using Google Colab. You need deviceSizes.txt and gmdnTerms.txt files from the AccessGUDID website to test these notebooks.
 ```
-anom_det_classical.ipynb
+1. anom_det_classical.ipynb
 ```
 Classical implementation of anomaly detection which uses SI unit normalization and classical vectorization to create a vectorized dataset. On top of this vectorized dataset, classical ML based anomaly detection algorithm isoforests is run to detect anomalies
 ```
